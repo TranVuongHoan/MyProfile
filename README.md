@@ -7,7 +7,7 @@ Data Analyst
 Final-year Commerce student majoring in Business Analytics at Monash University, passionate about transforming data into strategic insights. Proficient in Excel, Power BI, and Python, with practical experience in forecasting, data visualization, and market analysis through academic projects. Driven to bring strong analytical skills and fresh perspectives to fast-paced teams in analytics, consulting, or strategic planning roles.
 
 * 🌍  I'm based in Melbourne, VIC
-* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/trần-vương-hoàn-53211529b)
+* 🖥️  See my portfolio at [LinkedIn](www.linkedin.com/in/vuong-hoan-tran-53211529b)
 * ✉️  You can contact me at [hoanvtran.work@gmail.com](mailto:hoanvtran.work@gmail.com)
 * 🧠  I'm learning Power BI, SQL, Python, Excel, Tableau
 * 🤝  I'm open to collaborating on I'm open to collaborating on data-driven projects involving business analytics, market research, forecasting, or performance analysis. I'm especially interested in opportunities where I can apply my skills in Excel, Power BI, and Python to solve real-world problems, uncover insights, and support strategic decision-making.
